@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("dsafdsafdsfasf")
-        print("dsafdsafdsafdsaf")
+        print("dsafdsafdsafdsaf adsfdsafdsafds")
 
 
     }
