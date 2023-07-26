@@ -5,7 +5,6 @@ import android.util.Log
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
-import kotlin.math.log
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("dsafdsafdsfasf")
-        Log.e("asdfdsafdsafdsa","test")
+        println("tasdafdsafdsafdsafdsa")
 
 
 
