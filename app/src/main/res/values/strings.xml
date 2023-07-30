@@ -2,4 +2,6 @@
     <string name="app_name">Training</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="this_is_demo_text_to_be_added_to_string">This is demo text to be added to string</string>
 </resources>
